@@ -4,8 +4,11 @@ An  addon that allows players from opposing factions to communicate through a wo
 
 # Using:
 
--As a Human speaking to Horde:
+##As a Human speaking to Horde:
+
   /hermes Hello there stranger
+
+  
   <img width="304" height="35" alt="image" src="https://github.com/user-attachments/assets/ad6e4d77-d77c-4101-a3b8-d33d06565ca8" />
 
 
