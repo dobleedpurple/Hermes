@@ -10,7 +10,8 @@ you can either use /hermes to say or /yhermes to yell
   /hermes Hello there stranger
 
   
-  <img width="304" height="35" alt="image" src="https://github.com/user-attachments/assets/ad6e4d77-d77c-4101-a3b8-d33d06565ca8" />
+<img width="242" height="22" alt="1" src="https://github.com/user-attachments/assets/596d3953-7e42-4e0d-8edd-ca66395e0f64" />
+
 
 
 → Displays to Horde as:
