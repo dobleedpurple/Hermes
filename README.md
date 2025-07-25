@@ -3,8 +3,7 @@
 An  addon that allows players from opposing factions to communicate through a workaround that converts common phrases or messages into neutral or decipherable language that bypasses Blizzard’s default faction chat filter.
 
 # Using:
-you can either use: /hermes to say
-                    /yhermes to yell
+you can either use /hermes to say or /yhermes to yell
 
 ## As a Human speaking to Horde:
 
