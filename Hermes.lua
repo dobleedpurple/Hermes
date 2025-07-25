@@ -30,7 +30,6 @@ function sayToOtherFaction(msg, tone)
 		return
 	end
 
-	--does this pepega know my language?
 	local knowsLanguage = false
 	for i = 1, GetNumLanguages() do
 		local name = GetLanguageByIndex(i)
@@ -58,7 +57,6 @@ function translate(msg, dictionary)
 	while strlen(RAW_STRING) > 0 do
 		local letter_found = false
 
-		-- Try matching known letters/phrases
 		for _, pair in ipairs(dictionary["ALPHABET"]) do
 			local key = pair[1]
 			local val = pair[2]
@@ -72,7 +70,6 @@ function translate(msg, dictionary)
 		end
 
 		if not letter_found then
-			-- Try substituting unavailable letters
 			for key, val in pairs(dictionary["SUBSTITUTES"]) do
 				if string.find(RAW_STRING, "^" .. key) then
 					RAW_STRING = string.gsub(RAW_STRING, "^" .. key, val, 1)
@@ -83,7 +80,6 @@ function translate(msg, dictionary)
 		end
 
 		if not letter_found then
-			-- Replace whitespace with separator
 			if string.find(RAW_STRING, "^%s") then
 				YOU_SAY = YOU_SAY .. dictionary["SEPARATOR"]["INPUT"] .. " "
 				THEY_SEE = THEY_SEE .. dictionary["SEPARATOR"]["OUTPUT"] .. " "
@@ -93,7 +89,6 @@ function translate(msg, dictionary)
 		end
 
 		if not letter_found then
-			-- Ignore any remaining character
 			RAW_STRING = string.gsub(RAW_STRING, "^.", "")
 		end
 	end
