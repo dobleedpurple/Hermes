@@ -5,19 +5,25 @@ An  addon that allows players from opposing factions to communicate through a wo
 # Using:
 
 -As a Human speaking to Horde:
-  /hermes Thank you
+  /hermes Hello there stranger
+  <img width="304" height="35" alt="image" src="https://github.com/user-attachments/assets/ad6e4d77-d77c-4101-a3b8-d33d06565ca8" />
+
 
 → Displays to Horde as:
-  T H AN K r Y O U
+  <img width="388" height="35" alt="image" src="https://github.com/user-attachments/assets/b2ca2056-9b84-4d8a-9615-4e8101c1eea6" />
+
 
 -As an Orc speaking to Alliance:
   /hermes Thank you
+  <img width="365" height="36" alt="image" src="https://github.com/user-attachments/assets/e156f6ec-43f1-4824-8993-5b085da790a6" />
+
 
 → Displays to Alliance as:
-  TH A N K n I O Il
+  <img width="363" height="26" alt="image" src="https://github.com/user-attachments/assets/d19ad02f-2c2b-4ec1-becc-d37f469d9227" />
+
 
 -You can also yell cross-faction using:
-  /yhermes Thank you
+  /yhermes hello there stranger
 
 # Limitations:
 
@@ -27,4 +33,4 @@ Orcish suffers in particular, because it misses a bunch of potentially interchan
 
 No punctuation or numbers are possible. Only some latin letters.
 
-Only single space can be posted. But it is possible to use some downcase letters as delimeters. Or you can post one word at a time.
+Can't have a very long message, have to be a couple of words.
