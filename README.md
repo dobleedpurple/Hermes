@@ -16,13 +16,14 @@ you can either use /hermes to say or /yhermes to yell
 → Displays to Horde as:
 
 
-  <img width="388" height="35" alt="image" src="https://github.com/user-attachments/assets/b2ca2056-9b84-4d8a-9615-4e8101c1eea6" />
+  <img width="405" height="21" alt="image" src="https://github.com/user-attachments/assets/1279a0cd-c1dc-45ce-bb61-1c29a58f59e8" />
+
 
 
 ## As an Orc speaking to Alliance:
 
 
-  /hermes Thank you
+  /hermes Hello there stranger
 
   
   <img width="365" height="36" alt="image" src="https://github.com/user-attachments/assets/e156f6ec-43f1-4824-8993-5b085da790a6" />
