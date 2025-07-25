@@ -3,6 +3,8 @@
 An  addon that allows players from opposing factions to communicate through a workaround that converts common phrases or messages into neutral or decipherable language that bypasses Blizzard’s default faction chat filter.
 
 # Using:
+you can either use: /hermes to say
+                    /yhermes to yell
 
 ## As a Human speaking to Horde:
 
@@ -32,11 +34,6 @@ An  addon that allows players from opposing factions to communicate through a wo
 
   <img width="363" height="26" alt="image" src="https://github.com/user-attachments/assets/d19ad02f-2c2b-4ec1-becc-d37f469d9227" />
 
-
--You can also yell cross-faction using:
-
-
-  /yhermes hello there stranger
 
 # Limitations:
 
