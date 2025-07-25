@@ -10,7 +10,8 @@ you can either use /hermes to say or /yhermes to yell
   /hermes Hello there stranger
 
   
-  <img width="242" height="22" alt="1" src="https://github.com/user-attachments/assets/596d3953-7e42-4e0d-8edd-ca66395e0f64" />
+  <img width="373" height="34" alt="image" src="https://github.com/user-attachments/assets/cd2f5720-af72-421a-ac84-5035a52193a9" />
+
 
 
 
