@@ -10,14 +10,15 @@ you can either use /hermes to say or /yhermes to yell
   /hermes Hello there stranger
 
   
-<img width="242" height="22" alt="1" src="https://github.com/user-attachments/assets/596d3953-7e42-4e0d-8edd-ca66395e0f64" />
+  <img width="242" height="22" alt="1" src="https://github.com/user-attachments/assets/596d3953-7e42-4e0d-8edd-ca66395e0f64" />
 
 
 
 → Displays to Horde as:
 
 
-  <img width="405" height="21" alt="image" src="https://github.com/user-attachments/assets/1279a0cd-c1dc-45ce-bb61-1c29a58f59e8" />
+  <img width="409" height="16" alt="image" src="https://github.com/user-attachments/assets/de5a2700-18e9-443a-a095-2cdddb95d6f1" />
+
 
 
 
@@ -27,13 +28,16 @@ you can either use /hermes to say or /yhermes to yell
   /hermes Hello there stranger
 
   
-  <img width="365" height="36" alt="image" src="https://github.com/user-attachments/assets/e156f6ec-43f1-4824-8993-5b085da790a6" />
+  <img width="374" height="31" alt="image" src="https://github.com/user-attachments/assets/24d0262d-e569-4caf-a9ab-f3afc9b1e48b" />
+
 
 
 → Displays to Alliance as:
 
 
-  <img width="363" height="26" alt="image" src="https://github.com/user-attachments/assets/d19ad02f-2c2b-4ec1-becc-d37f469d9227" />
+  <img width="382" height="21" alt="image" src="https://github.com/user-attachments/assets/1ea50cfb-c9a8-44aa-a5ce-7eac9b549d16" />
+
+
 
 
 # Limitations:
